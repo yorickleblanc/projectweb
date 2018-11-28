@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <form></form>
+        </nav>
+        <H1>99 verhalen van deur tot deur</H1>
+        <h2>Populairste verhaal van deze week.</h2>
+        <a>Zombie ></a>
+        <a> Top 10 verhalen bekijken ></a>
+    </header>
+
+    <form>Filters</form>
+    <section>
+        <article>
+            <h3>1. Notitie</h3>
+            <p>Bus 21, rond het middaguur. Halte Centraal Station. Mijn zoon slaapt in zijn kinderwagen. Ik loop langs de winderige bouwputten naar de Openbare Bibliotheek. Voor de trap van de bibliotheek klampt een vrouw mij aan. Zwart krullend haar. In stokbrodenengels vraagt ze waar het postkantoor is. Ik verwijs haar naar de Raadhuisstraat. Een auto met een Frans nummerbord rijdt achteruit rijdend weg…… </p>
+            <h4>naar verhaal</h4>
+        </article>
+
+        <article>
+            <h3>2. Essentie</h3>
+            <p>Mijn zoektocht naar Stijloefeningen van Raymond Queneau brengt mij bij de bibliotheek. Een Franse vrouw (zwart krullend haar) vraagt waar het postkantoor is. Ik zeg dat ze naar de Raadhuisstraat moet. Ze rent achter een auto aan. Je vindt nooit wat je zoekt. </p>
+            <h4>naar verhaal</h4>
+        </article>
+
+
+        <article>
+            <h3>3. Droom</h3>
+            <p>Slierten mist zwerven rond mijn benen. Net zat ik nog in Bus 21. Het was warm, zweet parelde langs mijn slapen, mijn zoon sliep. Nu loop ik over een smal pad langs eindeloos diepe bouwputten. Een heipaal beukt zich een weg naar het binnenste van mijn oor. Lachende Japanners passeren mij. Een van de Japanners verandert in een vrouw. ‘Waar is het postkantoor,’ vraagt de vrouw. ‘Dat bestaat niet meer,’ zeg ik. ‘We werken hier alleen nog…… </p>
+            <h4>naar verhaal</h4>
+        </article>
+
+    </section>
+
+</body>
+
+</html>
